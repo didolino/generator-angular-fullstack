@@ -1,0 +1,2 @@
+npm install -g yo grunt-cli gulp-cli bower 
+npm install -g generator-angular-fullstack@2.1.1 
